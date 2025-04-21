@@ -53,12 +53,12 @@
 
 [![ityoung09's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ityoung09&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 🐍 贪吃蛇贡献图
+## 🐍 我的贡献图蛇
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ityoung09/ityoung09/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ityoung09/ityoung09/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ityoung09/ityoung09/output/github-contribution-grid-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ityoung09/ityoung09/output/github-contribution-grid-snake.svg">
 </picture>
 
 ## 🎯 2024目标

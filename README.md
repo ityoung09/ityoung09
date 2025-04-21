@@ -49,6 +49,18 @@
 
 ![ityoung09's GitHub stats](https://github-readme-stats.vercel.app/api?username=ityoung09&show_icons=true&theme=radical)
 
+## 📈 贡献热力图
+
+[![ityoung09's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ityoung09&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## 🐍 贪吃蛇贡献图
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ityoung09/ityoung09/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ityoung09/ityoung09/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ityoung09/ityoung09/output/github-contribution-grid-snake.svg">
+</picture>
+
 ## 🎯 2024目标
 
 一个努力进步的Java工程师，希望在以后的时间里能够坚持学习，积累经验，能在一方领域独挡一面。

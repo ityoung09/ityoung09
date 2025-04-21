@@ -49,10 +49,6 @@
 
 ![ityoung09's GitHub stats](https://github-readme-stats.vercel.app/api?username=ityoung09&show_icons=true&theme=radical)
 
-## 📈 贡献热力图
-
-[![ityoung09's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ityoung09&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ## 🐍 我的贡献图蛇
 
 <picture>

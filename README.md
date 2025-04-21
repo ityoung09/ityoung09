@@ -33,7 +33,6 @@
 > 竹密无妨溪水过，天高不碍白云飞
 ## 📊 GitHub 统计
 ![ityoung09's GitHub stats](https://github-readme-stats.vercel.app/api?username=ityoung09&show_icons=true&theme=radical)
-## 🐍 我的贡献图蛇
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ityoung09/ityoung09/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ityoung09/ityoung09/output/github-contribution-grid-snake.svg">
@@ -41,6 +40,7 @@
 </picture>
 ## 🎯 2024目标
 一个努力进步的Java工程师，希望在以后的时间里能够坚持学习，积累经验，能在一方领域独挡一面。
+
 ## 🚀 2025目标
 - 🔥 深入掌握分布式系统架构设计
 - 🧠 探索AI与Java结合的实践应用

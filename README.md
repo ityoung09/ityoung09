@@ -42,11 +42,9 @@
     <td width="50%" valign="top">
       <h3>项目经历</h3>
       <ul>
-        <li><a href="https://github.com/ityoung09/springboot3-integration">springboot3-integration</a>：Spring Boot 3集成实践</li>
+        <li><a href="https://github.com/ityoung09/Springboot3Study">Springboot3Study</a>：Spring Boot 3集成实践</li>
         <li><a href="https://github.com/ityoung09/integration_limit">integration_limit</a>：限流算法的一些实现</li>
         <li><a href="https://github.com/ityoung09/springboot-langchain4j">springboot-langchain4j</a>：SpringBoot集成LangChain4j</li>
-        <li><a href="https://github.com/ityoung09/ityoung09.github.io">ityoung09.github.io</a>：个人博客站点</li>
-        <li><a href="https://github.com/ityoung09/study_git">study_git</a>：Git命令学习记录</li>
       </ul>
     </td>
     <td width="50%" valign="top">
